@@ -1,7 +1,6 @@
 ////////Hanabushii, Java Game.java////////
 //Based on RealTutsGML's Java Game tutorial//
 //  https://youtu.be/hXImR8Wm53M   //
-//Abridged by Andy Honey (GPAL13)//
 
 
 /////////Important notes://////////
